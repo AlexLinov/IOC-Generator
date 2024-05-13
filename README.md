@@ -22,7 +22,7 @@ This Python-based tool efficiently generates Indicators of Compromise (IOCs) for
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/AlexLinov/ioc-generator-mde.git
-cd ioc-generator-mde
+git clone https://github.com/AlexLinov/IOC-Generator.git
+cd IOC-Generator
 python3 ioc.gen.py
 ```
